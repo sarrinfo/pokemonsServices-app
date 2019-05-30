@@ -1,0 +1,185 @@
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\ApiPokemon.dll.config
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\ApiPokemon.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\ApiPokemon.pdb
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\csc.exe
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\csc.exe.config
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\csc.rsp
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\csi.exe
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\csi.exe.config
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\csi.rsp
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.AppContext.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Console.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.Compression.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.Pipes.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Claims.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.ValueTuple.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\vbc.exe
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\vbc.exe.config
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\vbc.rsp
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\VBCSCompiler.exe
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\EntityFramework.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\EntityFramework.SqlServer.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\Newtonsoft.Json.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Net.Http.Formatting.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Helpers.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Http.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Http.WebHost.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Mvc.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Razor.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.Razor.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\EntityFramework.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\EntityFramework.SqlServer.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Razor.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.Razor.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Helpers.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Mvc.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\Newtonsoft.Json.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Net.Http.Formatting.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Http.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\System.Web.Http.WebHost.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\EntityFramework.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Web.Razor.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Web.Http.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csprojAssemblyReference.cache
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CoreCompileInputs.cache
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CopyComplete
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.dll
+C:\Users\VM-VStudio 4\Documents\Visual Studio 2017\Projects\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.pdb
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\ApiPokemon.dll.config
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\ApiPokemon.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\ApiPokemon.pdb
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\csc.exe
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\csc.exe.config
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\csc.rsp
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\csi.exe
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\csi.exe.config
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\csi.rsp
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.AppContext.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Console.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.Compression.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Claims.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.ValueTuple.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\vbc.exe
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\vbc.exe.config
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\vbc.rsp
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\VBCSCompiler.exe
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\EntityFramework.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\EntityFramework.SqlServer.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\Newtonsoft.Json.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Net.Http.Formatting.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Helpers.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Http.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Http.WebHost.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Mvc.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Razor.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.Razor.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\EntityFramework.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\EntityFramework.SqlServer.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Razor.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Webpages.Razor.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Helpers.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Mvc.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\Newtonsoft.Json.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Net.Http.Formatting.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Http.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Http.WebHost.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\EntityFramework.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Web.Razor.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Web.Http.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csprojAssemblyReference.cache
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CoreCompileInputs.cache
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.csproj.CopyComplete
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\obj\Debug\ApiPokemon.pdb
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Cors.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Http.Cors.dll
+C:\Users\sarrinfo\source\repos\ApiPokemon\ApiPokemon\bin\System.Web.Http.Cors.xml
