@@ -10,7 +10,6 @@ namespace ApiPokemon
         public static void Register(HttpConfiguration config)
         {
             // Configuration et services API Web
-            config.EnableCors();
 
             // Itinéraires de l'API Web
             config.MapHttpAttributeRoutes();
@@ -21,8 +20,6 @@ namespace ApiPokemon
                 defaults: new { id = RouteParameter.Optional }
             );
 
-            var appXmlType = config.Formatters.XmlFormatter.SupportedMediaTypes.FirstOrDefault(t => t.MediaType == "application/xml");
-            config.Formatters.XmlFormatter.SupportedMediaTypes.Remove(appXmlType);
         }
     }
 }
